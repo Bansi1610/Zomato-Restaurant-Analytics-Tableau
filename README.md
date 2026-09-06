@@ -15,10 +15,6 @@ restaurant-level analysis.
 
 👉 **[View Interactive Zomato Tableau Dashboard](https://public.tableau.com/app/profile/bansi.hadiyal/viz/Zomato_17505156286900/Dashboard1)**
 
-## 📊 Dashboard Preview
-
-![Zomato Dashboard](images/Zomato_Dashboard.png)
-
 ---
 
 ## 🎯 Business Objective

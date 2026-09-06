@@ -126,6 +126,8 @@ Zomato-Restaurant-Analytics-Tableau
 └── images
     └── Zomato_Dashboard.png
 
+---
+
 👩‍💻 Author
 
 Bansi Hadiyal

@@ -13,7 +13,7 @@ data into meaningful business insights and support location and
 restaurant-level analysis.
 ## 🔗 Tableau Public Dashboard
 
-👉 **[View Interactive Zomato Tableau Dashboard]**
+👉 **[View Interactive Zomato Tableau Dashboard](https://public.tableau.com/app/profile/bansi.hadiyal/viz/Zomato_17505156286900/Dashboard1)**
 
 ## 📊 Dashboard Preview
 

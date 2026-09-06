@@ -17,6 +17,12 @@ restaurant-level analysis.
 
 ---
 
+## 📊 Dashboard Preview
+
+![Zomato Dashboard](images/Zomato_Dashboard.png)
+
+---
+
 ## 🎯 Business Objective
 
 The objective of this project is to analyze restaurant performance
@@ -43,20 +49,6 @@ across different cities and identify patterns in:
 - Dashboard Actions
 - Interactive Dashboard
 - Tableau Story
-
----
-
-## 🔗 Tableau Public
-
-View the interactive Tableau dashboard:
-
-PASTE YOUR FINAL TABLEAU PUBLIC VIZ URL HERE
-
----
-
-## 📊 Dashboard Preview
-
-![Zomato Dashboard](images/Zomato_Dashboard.png)
 
 ---
 
@@ -116,9 +108,6 @@ The dashboard includes:
 - Interactive dashboard actions
 - Dynamic restaurant analysis
 - KPI-based performance overview
-
-Users can select a city and interact with the dashboard to explore
-restaurant performance at a more detailed level.
 
 ---
 

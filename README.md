@@ -111,9 +111,8 @@ The dashboard includes:
 
 ---
 
-## 📁 Project Structure
+## 📁 Structure
 
-```text
 Zomato-Restaurant-Analytics-Tableau
 │
 ├── README.md

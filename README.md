@@ -123,8 +123,10 @@ Zomato-Restaurant-Analytics-Tableau
 ├── Zomato_Tableau_File.twbx
 └── images
     └── Zomato_Dashboard.png
----
+
 ```
+---
+
 ## 👩‍💻 Author
 
 Bansi Hadiyal

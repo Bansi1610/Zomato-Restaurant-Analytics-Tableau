@@ -116,12 +116,9 @@ The dashboard includes:
 Zomato-Restaurant-Analytics-Tableau
 │
 ├── README.md
-│
 ├── dataset
     └── Zomato_Restaurant_Data.xlsx
-|
 ├── Zomato_Tableau_File.twbx
-│
 └── images
     └── Zomato_Dashboard.png
 

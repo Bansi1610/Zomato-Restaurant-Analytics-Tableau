@@ -113,6 +113,7 @@ The dashboard includes:
 
 ## 📁 Structure
 
+```text
 Zomato-Restaurant-Analytics-Tableau
 │
 ├── README.md
@@ -123,7 +124,7 @@ Zomato-Restaurant-Analytics-Tableau
     └── Zomato_Dashboard.png
 
 ---
-
+```
 ## 👩‍💻 Author
 
 Bansi Hadiyal
